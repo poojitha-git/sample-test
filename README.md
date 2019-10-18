@@ -1,4 +1,1 @@
-# sample-test
 
-java
-selenium
